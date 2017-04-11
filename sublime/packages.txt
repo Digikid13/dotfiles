@@ -1,0 +1,22 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Babel",
+        "DocBlockr",
+        "Handlebars",
+        "HexViewer",
+        "JSX",
+        "LESS",
+        "Maybs Quit",
+        "Mocha Snippets",
+        "Package Control",
+        "Pretty JSON",
+        "SublimeLinter",
+        "SublimeLinter-contrib-eslint",
+        "TabsExtra"
+    ]
+}
